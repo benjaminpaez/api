@@ -1,0 +1,218 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Española",
+      "measures": {
+        "long": 40,
+        "broad": 40
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1686864955/baldosa_espanola_32030e565c.webp",
+      "stock": true,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "San Luis",
+      "measures": {
+        "long": 40,
+        "broad": 40
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1686865052/laja_sanluis_9c6efdcdf5.webp",
+      "stock": true,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Circular Grande",
+      "measures": {
+        "long": 40,
+        "broad": 40
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1686864899/baldosa_circ_Grande_2ff08a6e17.webp",
+      "stock": true,
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Circular Chico",
+      "measures": {
+        "long": 40,
+        "broad": 40
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1692982860/D_NQ_NP_660784-MLA46092938381_05_mf6zpp.jpg",
+
+      "stock": true,
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Adoquin Cuadrado",
+      "measures": {
+        "long": 40,
+        "broad": 40
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1686864492/cuadrado_31828cbc3d.webp",
+      "stock": true,
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Discapacitados",
+      "measures": {
+        "long": 40,
+        "broad": 40
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1693003608/discapacitados_ls3ikz.jpg",
+      "stock": true,
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "name": "Librillo",
+      "measures": {
+        "long": 12,
+        "broad": 20
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1692981772/librillo1_jdooti.jpg",
+      "stock": true,
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "name": "Cuarzita",
+      "measures": {
+        "long": 12,
+        "broad": 20
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1692982206/cuarcita_ca0ktn.png",
+      "stock": true,
+      "categoryId": 2
+    },
+    {
+      "id": 9,
+      "name": "Piedra Ardesia",
+      "measures": {
+        "long": 12,
+        "broad": 20
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1686865269/small_simil_piedra_ardesia_ef11ef3a63.jpg",
+      "stock": true,
+      "categoryId": 2
+    },
+    {
+      "id": 10,
+      "name": "Piedra natural San Luis",
+      "measures": {
+        "long": 12,
+        "broad": 20
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1686865228/large_piedra_natural_san_luis_11759ad305.jpg",
+      "stock": true,
+      "categoryId": 2
+    },
+    {
+      "id": 11,
+      "name": "Piedra Scala",
+      "measures": {
+        "long": 12,
+        "broad": 20
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1698361760/scala_mxjexy.png",
+      "stock": true,
+      "categoryId": 2
+    },
+    {
+      "id": 12,
+      "name": "Liston tradicional",
+      "measures": {
+        "long": 12,
+        "broad": 20
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1686865094/small_lis_e4fd994264.jpg",
+      "stock": true,
+      "categoryId": 2
+    },
+    {
+      "id": 13,
+      "name": "Ondas",
+      "measures": {
+        "long": 12,
+        "broad": 20
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1698365619/ondas1_pm1gww.png",
+      "stock": true,
+      "categoryId": 2
+    },
+    {
+      "id": 14,
+      "name": "Simil madera",
+      "measures": {
+        "long": 12,
+        "broad": 20
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1698365630/simil_madera_nsu5yt.png",
+      "stock": true,
+      "categoryId": 2
+    },
+    {
+      "id": 15,
+      "name": "Piedra Murete",
+      "measures": {
+        "long": 12,
+        "broad": 20
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1692982478/murete_mxjnwe.png",
+      "stock": true,
+      "categoryId": 2
+    },
+    {
+      "id": 16,
+      "name": "Adoquin Intertrabado",
+      "measures": {
+        "long": 20,
+        "broad": 10,
+        "thickness": 8
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1686864847/adoquin_8d1cce4a90.webp",
+      "stock": true,
+      "categoryId": 3
+    },
+    {
+      "id": 17,
+      "name": "Atermico para piscina",
+      "measures": {
+        "long": 50,
+        "broad": 50
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1692977578/atermico_uvmlgn.jpg",
+      "stock": true,
+      "categoryId": 3
+    },
+    {
+      "id": 18,
+      "name": "Borde para piscina",
+      "measures": {
+        "long": 50,
+        "broad": 50
+      },
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1692977600/borde-ballena_m9ez1s.jpg",
+      "stock": true,
+      "categoryId": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Baldosa"
+    },
+    {
+      "id": "2",
+      "name": "Revestimiento"
+    },
+    {
+      "id": "3",
+      "name": "Varios"
+    }
+  ]
+}
