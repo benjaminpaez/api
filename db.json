@@ -80,12 +80,12 @@
     },
     {
       "id": 8,
-      "name": "Cuarzita",
+      "name": "Quarsita",
       "measures": {
         "long": 12,
         "broad": 20
       },
-      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1692982206/cuarcita_ca0ktn.png",
+      "img": "https://res.cloudinary.com/dvjombxym/image/upload/v1703857005/quarsita_rjweaj.jpg",
       "stock": true,
       "categoryId": 2
     },
